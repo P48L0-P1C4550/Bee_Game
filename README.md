@@ -12,6 +12,8 @@ Preview:
 - To activate _Turbo_ press `T`, the bar at the top left show the progress of charging it, when it's full you can use it again.
 
 ### Disclaimer:
+WILL ADD EXE VERSION SOON
+
 The menu is pretty werid right now, to start the game you press the button that says `minigame` (image).
 
 ![obraz](https://github.com/P48L0-P1C4550/Bee_Game/assets/153947696/0be3e73c-5177-4df9-bac0-abf177ba6f83)
