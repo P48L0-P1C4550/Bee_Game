@@ -26,4 +26,4 @@ Paweł Herok
 
 # Music By:
 
-Jacob [His Youtube Channel](https://www.google.com) **(SOON TO BE ADDED)**
+Jakub Ryszka [His Youtube Channel](https://youtube.com/@jaxaj?si=A5mSXSiiyNCx_71d)
